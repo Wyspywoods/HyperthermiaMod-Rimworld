@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Hyperthermia V1.1</name>
+  <author>Helpful Bot</author>
+  <url>http://rimworldgame.com</url>
+  <targetVersion>0.15.1280</targetVersion>
+  <description>This mod changes the heat wave event to become more extreme. The max temperature range caused by the event is approximately 30% higher and it will grow hotter more quickly.
+  </description>
+</ModMetaData>

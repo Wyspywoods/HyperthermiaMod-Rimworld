@@ -1,0 +1,15 @@
+<MapConditionDefs>
+
+  <MapConditionDef>
+    <defName>HeatWave</defName>
+    <conditionClass>Hyperthermia.MapCondition_HeatWave</conditionClass>
+    <label>heat wave</label>
+    <description>An extreme wave of heat is baking the area.</description>
+    <endMessage>The heat wave is over.</endMessage>
+    <exclusiveConditions>
+      <li>ColdSnap</li>
+      <li>VolcanicWinter</li>
+    </exclusiveConditions>
+  </MapConditionDef>
+    
+</MapConditionDefs>

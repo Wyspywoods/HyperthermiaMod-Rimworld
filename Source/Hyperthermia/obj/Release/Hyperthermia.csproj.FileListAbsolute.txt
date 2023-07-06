@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hyperthermia\Hyperthermia\obj\Release\Hyperthermia.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hyperthermia\Hyperthermia\obj\Release\Hyperthermia.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hyperthermia\Hyperthermia\obj\Release\Hyperthermia.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hyperthermia\Hyperthermia.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Hyperthermia\Hyperthermia.pdb
+C:\Users\Willowisp\Desktop\1_A_RIMWORLD\1B RIMWORLD MODDING------\1A FINAL MOD COPIES PREPUBLISH\[14A] Hyperthermia\Source\Hyperthermia\obj\Release\Hyperthermia.csprojResolveAssemblyReference.cache
+C:\Users\Willowisp\Desktop\1_A_RIMWORLD\1B RIMWORLD MODDING------\1A FINAL MOD COPIES PREPUBLISH\[14A] Hyperthermia\Source\Hyperthermia\obj\Release\Hyperthermia.dll
+C:\Users\Willowisp\Desktop\1_A_RIMWORLD\1B RIMWORLD MODDING------\1A FINAL MOD COPIES PREPUBLISH\[14A] Hyperthermia\Source\Hyperthermia\obj\Release\Hyperthermia.pdb
+C:\Users\Willowisp\Desktop\1_A_RIMWORLD\1B RIMWORLD MODDING------\1A FINAL MOD COPIES PREPUBLISH\[14A] Hyperthermia\Source\Hyperthermia.dll
+C:\Users\Willowisp\Desktop\1_A_RIMWORLD\1B RIMWORLD MODDING------\1A FINAL MOD COPIES PREPUBLISH\[14A] Hyperthermia\Source\Hyperthermia.pdb
